@@ -1,7 +1,6 @@
 # Git_tutorial
 
 miyazakiから変更しました。
-Linh add more itemmiyazaki　
-iizaka added more item. 
+Linh add more itemmiyazaki　deleted iizaka's change
 
 henkouimasita
