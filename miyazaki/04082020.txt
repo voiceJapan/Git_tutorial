@@ -1,6 +1,12 @@
 (昨日やったこと)
-Git,GitHubトレーニング
+Git,GitHubトレーニング,Git repositoryの取得の一連の流れの確認
+（詳細）
+１、GitRepositoryの作成→２、LocalにCloneを取り込む→３、内容変更、保存
+→４、git statusでファイルの状況を確認する。
+
+branchの使用方法の確認
+
 （今日やること）
 SQL,データベースetc
 （苦戦していること）
- なし
+特になし
