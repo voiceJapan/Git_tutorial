@@ -1,6 +1,6 @@
-[昨日やったこと]
-Git,githubのトレーニング
-[今日やること]
-SQL入門
-苦戦している
-コマンドを覚えること
+[yesterday]
+Git,github training
+[today]
+SQL
+[struggle]
+memorize command
