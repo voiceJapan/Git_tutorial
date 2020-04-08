@@ -1,6 +1,9 @@
-[yesterday]
-Git,github training
-[today]
-SQL
-[struggle]
-memorize command
+[昨日やったこと]
+Git,githubトレーニング
+レポジトリ作成から変更を追加し、commitしてpushまでの流れ
+ブランチを作成し、ブランチで作業した後の処理までの流れ
+個人での作業とチームでの作業の流れの違い
+[今日やること]
+W3School SQLコースの最初からSQLホスティングまで
+[苦戦していること]
+コマンドを覚える
