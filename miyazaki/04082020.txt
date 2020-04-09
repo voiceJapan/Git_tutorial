@@ -4,7 +4,7 @@ Git,GitHubトレーニング,Git repositoryの取得の一連の流れの確認
 １、GitRepositoryの作成→２、LocalにCloneを取り込む→３、内容変更、保存
 →４、git statusでファイルの状況を確認する。
 
-branchの使用方法の確認
+branchの使用方法の確認etc
 
 （今日やること）
 SQL,データベースetc
