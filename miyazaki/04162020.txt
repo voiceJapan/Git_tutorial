@@ -1,0 +1,6 @@
+［昨日やったこと］
+Java:Setting up,Java:Getting started,Thelanguage of 50 keywords,Our first,Variable and datatype,Understanding variables,Primitive Date Types,BigDecimal class introduction, String Basics,Type casting,When to use what?
+[今日やること]
+paizaスキルチェック、Udemyのオンラインコース学習(Full Stack Java developer - Java + JSP + Restful WS + Spring)
+[苦戦していること]
+paizaスキルチェック
