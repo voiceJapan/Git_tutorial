@@ -1,0 +1,11 @@
+[昨日やったこと］
+ java学習：オンライントレーニング
+Full Stack Java developer - Java + JSP + Restful WS + Spring
+セクション１～セクション15途中
+paizaのスキルチェック(Dランク：2問)
+
+
+[今日やること]
+paizaスキルチェック、Udemyのオンラインコース学習(Full Stack Java developer - Java + JSP + Restful WS + Spring)、ミニプロジェクト
+[苦戦していること]
+paizaスキルチェック
