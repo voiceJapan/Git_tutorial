@@ -1,0 +1,11 @@
+[昨日やったこと]
+ExselでシステムびMokupの作成
+(URL) https://1drv.ms/x/s!Aqp6aK3BKu8ggXUWV98O0lXfVL5t
+ログイン画面の作成
+
+
+[今日やること]
+JDBCを使ってMysqlに接続
+
+[苦戦していること]
+特になし
