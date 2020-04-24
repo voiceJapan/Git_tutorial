@@ -1,0 +1,14 @@
+[昨日やったこと］
+ paizaスキルチェック(Dランク1問),
+ExcelでシステムのMockupの作成
+（共有リンク）https://1drv.ms/x/s!AtsUDcCoiKA0dWEwZesQ7q9XgrY?e=pJiqGV
+
+
+
+[今日やること]
+ログイン画面作成、JDBCを使って、Mysqlに接続、paizaスキルチェック
+
+
+
+[苦戦していること]
+特になし
